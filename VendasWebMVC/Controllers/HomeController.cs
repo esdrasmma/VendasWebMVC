@@ -6,6 +6,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using VendasWebMVC.Models;
 
+
+
 namespace VendasWebMVC.Controllers
 {
     public class HomeController : Controller
@@ -16,9 +18,9 @@ namespace VendasWebMVC.Controllers
         }
 
         public IActionResult About()
-        {
-            ViewData["Message"] = "Your application description page.";
-
+        { 
+            ViewData["Message"] = "Vendas Web MVC App from Marcelo Esdras";
+            ViewData["Desenvolvedor"] = "Marcelo Esdras";
             return View();
         }
 
