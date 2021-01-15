@@ -41,3 +41,4 @@ C:\Projetos\Meus Projetos\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\Razo
 C:\Projetos\Meus Projetos\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 C:\Projetos\Meus Projetos\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
 C:\Projetos\Meus Projetos\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Projetos\Meus Projetos\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs

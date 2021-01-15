@@ -84,7 +84,7 @@ using VendasWebMVC.Models;
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
             EndContext();
             BeginContext(376, 54, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c2098687e24d4e50acd545f4086b32b8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5985d1f1cfa44b87af8db8baf18c9304", async() => {
                 BeginContext(422, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -119,7 +119,7 @@ using VendasWebMVC.Models;
             WriteLiteral(" |\r\n    ");
             EndContext();
             BeginContext(438, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6cd0d61faee54be897b5efccb3dcbe94", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6f5a14db623e432797e052911ec6799f", async() => {
                 BeginContext(460, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();
