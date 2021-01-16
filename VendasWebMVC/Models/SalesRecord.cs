@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Linq;
 using VendasWebMVC.Models.Enums;
 
 namespace VendasWebMVC.Models
